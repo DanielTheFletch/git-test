@@ -1,0 +1,4 @@
+Hello, World!
+
+I am writing this urgent message from Visual Studio Code within my virtual machine.
+You could say it's somewhat of a VM VS SOS.
